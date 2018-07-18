@@ -19,7 +19,7 @@ fresh_tomatoes.py: This is the starter code provided by udacity. It contain the 
 
 ==================================================================
 
-Extra: I added a footer in the fresh_tomatoes mentioning the use CC by 4.0 creative licence
+
 ==================================================================
 
 
@@ -30,3 +30,12 @@ How to Run:
 3- Navigate to the files path using cd ~/path
 4- Type python entertaiment_center.py 
 5- Enjoy the website
+
+
+========================================================
+
+Extra: I added a footer in the fresh_tomatoes mentioning the use CC by 4.0 creative licence
+
+THe fresh_tomatoes.py file was provided by udacity as a starter code. 
+The movies poster images were picked from the wikimedia foundation
+THe movie trailers link to youtube
